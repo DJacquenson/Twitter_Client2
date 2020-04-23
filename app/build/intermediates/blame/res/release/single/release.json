@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/release/drawable_twitter.png.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/drawable/twitter.png"
+    },
+    {
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/release/layout_activity_login.xml.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/release/layout_activity_timeline.xml.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/layout/activity_timeline.xml"
+    },
+    {
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/release/drawable-mdpi_twitter.png.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/drawable-mdpi/twitter.png"
+    },
+    {
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/release/layout_item_tweet.xml.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/layout/item_tweet.xml"
+    },
+    {
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/release/drawable-xhdpi_twitter.png.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/drawable-xhdpi/twitter.png"
+    },
+    {
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/release/drawable-hdpi_twitter.png.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/drawable-hdpi/twitter.png"
+    },
+    {
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/release/drawable-xxhdpi_twitter.png.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/drawable-xxhdpi/twitter.png"
+    },
+    {
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/release/menu_login.xml.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/menu/login.xml"
+    }
+]
