@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:2:1-39:12
+ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:2:1-40:12
 MERGED from [com.codepath.libraries:android-oauth-handler:2.2.0] /home/quen/.gradle/caches/transforms-2/files-2.1/ae813f3cb3cc7e8fb91bc6e5503b9171/jetified-android-oauth-handler-2.2.0/AndroidManifest.xml:2:1-11:12
 MERGED from [com.codepath.libraries:asynchttpclient:0.0.9] /home/quen/.gradle/caches/transforms-2/files-2.1/9c3b4c056df3fb54ef678e38139bc5ee/jetified-asynchttpclient-0.0.9/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/quen/.gradle/caches/transforms-2/files-2.1/ea88890b09526096266c9c16859169ae/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -38,33 +38,33 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/quen/
 MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/quen/.gradle/caches/transforms-2/files-2.1/27eaecc8cd0861d0e6bd94d2c9649bb6/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/quen/.gradle/caches/transforms-2/files-2.1/209f2f473926ace7290783e8147519fd/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.savedstate:savedstate:1.0.0] /home/quen/.gradle/caches/transforms-2/files-2.1/9f18933e18a2883724525a09a9c7e2bc/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:2:1-39:12
-INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:2:1-40:12
 	package
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:3:5-51
-		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml
-		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:3:5-51
+		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml
-		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml
-		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:7:5-67
+ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:7:5-67
 	android:name
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:7:22-64
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:7:22-64
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:8:5-81
+ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:8:22-78
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:8:22-78
 application
-ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:10:5-37:19
+ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:10:5-38:19
 MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/quen/.gradle/caches/transforms-2/files-2.1/44cf2ba987ec40017258f711f236ec72/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/quen/.gradle/caches/transforms-2/files-2.1/44cf2ba987ec40017258f711f236ec72/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
 MERGED from [androidx.room:room-runtime:2.2.5] /home/quen/.gradle/caches/transforms-2/files-2.1/ab2aa51fb16126b41a75dd64b9f4247a/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
@@ -86,61 +86,65 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/quen/
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /home/quen/.gradle/caches/transforms-2/files-2.1/da95e0dd41fd0c634661df2a0f122634/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:14:9-41
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:14:9-41
 	android:icon
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:13:9-41
 	android:allowBackup
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:12:9-35
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:15:9-40
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:15:9-40
 	android:name
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:11:9-35
+activity#com.codepath.apps.restclienttemplate.ComposeActivity
+ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:16:9-62
+	android:name
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:16:19-50
 activity#com.codepath.apps.restclienttemplate.TimelineActivity
-ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:16:9-63
+ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:17:9-54
 	android:name
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:16:19-51
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:17:19-51
 activity#com.codepath.apps.restclienttemplate.LoginActivity
-ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:17:9-36:20
+ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:18:9-37:20
 	android:label
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:19:13-45
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:20:13-45
 	android:theme
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:20:13-44
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:21:13-44
 	android:name
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:18:13-42
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:19:13-42
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:21:13-25:29
+ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:22:17-69
+ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:22:25-66
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:24:17-77
+ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:24:27-74
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:25:27-74
 intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:@string/intent_host+data:scheme:@string/intent_scheme
-ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:26:13-35:29
+ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:27:13-36:29
 action#android.intent.action.VIEW
-ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:27:17-69
+ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:28:17-69
 	android:name
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:27:25-66
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:28:25-66
 category#android.intent.category.DEFAULT
-ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:29:17-76
+ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:30:17-76
 	android:name
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:29:27-73
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:30:27-73
 category#android.intent.category.BROWSABLE
-ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:30:17-78
+ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:31:17-78
 	android:name
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:30:27-75
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:31:27-75
 data
-ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:32:17-34:62
+ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:33:17-35:62
 	android:host
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:33:21-55
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:34:21-55
 	android:scheme
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml:34:21-59
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:35:21-59
 uses-sdk
-INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml
-INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml
+INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml
+INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml
 MERGED from [com.codepath.libraries:android-oauth-handler:2.2.0] /home/quen/.gradle/caches/transforms-2/files-2.1/ae813f3cb3cc7e8fb91bc6e5503b9171/jetified-android-oauth-handler-2.2.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.codepath.libraries:android-oauth-handler:2.2.0] /home/quen/.gradle/caches/transforms-2/files-2.1/ae813f3cb3cc7e8fb91bc6e5503b9171/jetified-android-oauth-handler-2.2.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.codepath.libraries:asynchttpclient:0.0.9] /home/quen/.gradle/caches/transforms-2/files-2.1/9c3b4c056df3fb54ef678e38139bc5ee/jetified-asynchttpclient-0.0.9/AndroidManifest.xml:7:5-9:41
@@ -209,16 +213,16 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/quen/.gradle/ca
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/quen/.gradle/caches/transforms-2/files-2.1/209f2f473926ace7290783e8147519fd/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.savedstate:savedstate:1.0.0] /home/quen/.gradle/caches/transforms-2/files-2.1/9f18933e18a2883724525a09a9c7e2bc/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.savedstate:savedstate:1.0.0] /home/quen/.gradle/caches/transforms-2/files-2.1/9f18933e18a2883724525a09a9c7e2bc/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml
-INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml
+INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml
+INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml
-		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml
+		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml
-		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml
-		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/AndroidManifest.xml
+		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml
+		ADDED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml
 service#androidx.room.MultiInstanceInvalidationService
 ADDED from [androidx.room:room-runtime:2.2.5] /home/quen/.gradle/caches/transforms-2/files-2.1/ab2aa51fb16126b41a75dd64b9f4247a/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
 	android:exported

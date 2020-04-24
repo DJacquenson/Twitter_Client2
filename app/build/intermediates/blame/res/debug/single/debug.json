@@ -1,38 +1,50 @@
 [
     {
-        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/debug/drawable-mdpi_twitter.png.flat",
-        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/drawable-mdpi/twitter.png"
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/build/intermediates/res/merged/debug/drawable-mdpi_twitter.png.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/res/drawable-mdpi/twitter.png"
     },
     {
-        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/debug/layout_activity_timeline.xml.flat",
-        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/layout/activity_timeline.xml"
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/build/intermediates/res/merged/debug/drawable_twitter.png.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/res/drawable/twitter.png"
     },
     {
-        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
-        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/layout/activity_login.xml"
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/build/intermediates/res/merged/debug/drawable-hdpi_twitter.png.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/res/drawable-hdpi/twitter.png"
     },
     {
-        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/debug/drawable-xxhdpi_twitter.png.flat",
-        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/drawable-xxhdpi/twitter.png"
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/build/intermediates/res/merged/debug/drawable-xhdpi_twitter.png.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/res/drawable-xhdpi/twitter.png"
     },
     {
-        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/debug/drawable-xhdpi_twitter.png.flat",
-        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/drawable-xhdpi/twitter.png"
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/build/intermediates/res/merged/debug/layout_activity_login.xml.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/res/layout/activity_login.xml"
     },
     {
-        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/debug/layout_item_tweet.xml.flat",
-        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/layout/item_tweet.xml"
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_twitter.png.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/res/drawable-xxhdpi/twitter.png"
     },
     {
-        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/debug/drawable-hdpi_twitter.png.flat",
-        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/drawable-hdpi/twitter.png"
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/build/intermediates/res/merged/debug/layout_activity_timeline.xml.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/res/layout/activity_timeline.xml"
     },
     {
-        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/debug/menu_login.xml.flat",
-        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/menu/login.xml"
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/build/intermediates/res/merged/debug/drawable-xhdpi_twitter_image.png.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/res/drawable-xhdpi/twitter_image.png"
     },
     {
-        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet/app/build/intermediates/res/merged/debug/drawable_twitter.png.flat",
-        "source": "/home/quen/AndroidStudioProjects/SimpleTweet/app/src/main/res/drawable/twitter.png"
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/build/intermediates/res/merged/debug/layout_item_tweet.xml.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/res/layout/item_tweet.xml"
+    },
+    {
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/build/intermediates/res/merged/debug/layout_activity_compose.xml.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/res/layout/activity_compose.xml"
+    },
+    {
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/build/intermediates/res/merged/debug/menu_login.xml.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/res/menu/login.xml"
     }
 ]
