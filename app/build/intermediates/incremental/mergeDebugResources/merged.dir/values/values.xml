@@ -430,7 +430,7 @@
     <style name="Animation.AppCompat.Tooltip" parent="Base.Animation.AppCompat.Tooltip"/>
     <style name="AppTheme" parent="Theme.AppCompat.Light">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">@android:color/background_dark</item>
+        <item name="colorPrimary">@android:color/background_light</item>
 
     </style>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
