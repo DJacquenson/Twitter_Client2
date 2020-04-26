@@ -22,7 +22,8 @@
         android:onClick="loginToRest"
         android:text="@string/login_label"
         android:textColorLink="#99F0FF"
-        android:textSize="18dp" />
+        android:textSize="18dp"
+        />
 
     <de.hdodenhof.circleimageview.CircleImageView
         android:id="@+id/profile_image"

@@ -46,5 +46,9 @@
     {
         "merged": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/build/intermediates/res/merged/debug/menu_login.xml.flat",
         "source": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/res/menu/login.xml"
+    },
+    {
+        "merged": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/build/intermediates/res/merged/debug/drawable_mybutton.png.flat",
+        "source": "/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/res/drawable/mybutton.png"
     }
 ]
