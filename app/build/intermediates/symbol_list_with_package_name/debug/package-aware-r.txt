@@ -884,6 +884,8 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
+id toolbar
+id toolbar_title
 id top
 id topPanel
 id tvBody

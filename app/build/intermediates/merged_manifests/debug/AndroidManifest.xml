@@ -37,9 +37,7 @@
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
 
-                <data
-                    android:host="@string/intent_host"
-                    android:scheme="@string/intent_scheme" />
+                <data android:scheme="@string/intent_scheme" />
             </intent-filter>
         </activity>
 

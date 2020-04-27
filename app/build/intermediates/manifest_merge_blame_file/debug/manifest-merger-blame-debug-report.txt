@@ -18,7 +18,7 @@
 12-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:8:22-78
 13
 14    <application
-14-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:10:5-38:19
+14-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:10:5-37:19
 15        android:name="com.codepath.apps.restclienttemplate.TwitterApp"
 15-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:11:9-35
 16        android:allowBackup="true"
@@ -40,7 +40,7 @@
 24-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:17:9-54
 24-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:17:19-51
 25        <activity
-25-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:18:9-37:20
+25-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:18:9-36:20
 26            android:name="com.codepath.apps.restclienttemplate.LoginActivity"
 26-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:19:13-42
 27            android:label="@string/app_name"
@@ -58,7 +58,7 @@
 32-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:25:27-74
 33            </intent-filter>
 34            <intent-filter>
-34-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:27:13-36:29
+34-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:27:13-35:29
 35                <action android:name="android.intent.action.VIEW" />
 35-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:28:17-69
 35-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:28:25-66
@@ -70,23 +70,20 @@
 38-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:31:17-78
 38-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:31:27-75
 39
-40                <data
-40-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:33:17-35:62
-41                    android:host="@string/intent_host"
-41-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:34:21-55
-42                    android:scheme="@string/intent_scheme" />
-42-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:35:21-59
-43            </intent-filter>
-44        </activity>
-45
-46        <service
-46-->[androidx.room:room-runtime:2.2.5] /home/quen/.gradle/caches/transforms-2/files-2.1/ab2aa51fb16126b41a75dd64b9f4247a/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
-47            android:name="androidx.room.MultiInstanceInvalidationService"
-47-->[androidx.room:room-runtime:2.2.5] /home/quen/.gradle/caches/transforms-2/files-2.1/ab2aa51fb16126b41a75dd64b9f4247a/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
-48            android:directBootAware="true"
-48-->[androidx.room:room-runtime:2.2.5] /home/quen/.gradle/caches/transforms-2/files-2.1/ab2aa51fb16126b41a75dd64b9f4247a/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
-49            android:exported="false" />
-49-->[androidx.room:room-runtime:2.2.5] /home/quen/.gradle/caches/transforms-2/files-2.1/ab2aa51fb16126b41a75dd64b9f4247a/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
-50    </application>
-51
-52</manifest>
+40                <data android:scheme="@string/intent_scheme" />
+40-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:33:17-34:62
+40-->/home/quen/AndroidStudioProjects/SimpleTweet2/app/src/main/AndroidManifest.xml:34:21-59
+41            </intent-filter>
+42        </activity>
+43
+44        <service
+44-->[androidx.room:room-runtime:2.2.5] /home/quen/.gradle/caches/transforms-2/files-2.1/ab2aa51fb16126b41a75dd64b9f4247a/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+45            android:name="androidx.room.MultiInstanceInvalidationService"
+45-->[androidx.room:room-runtime:2.2.5] /home/quen/.gradle/caches/transforms-2/files-2.1/ab2aa51fb16126b41a75dd64b9f4247a/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+46            android:directBootAware="true"
+46-->[androidx.room:room-runtime:2.2.5] /home/quen/.gradle/caches/transforms-2/files-2.1/ab2aa51fb16126b41a75dd64b9f4247a/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+47            android:exported="false" />
+47-->[androidx.room:room-runtime:2.2.5] /home/quen/.gradle/caches/transforms-2/files-2.1/ab2aa51fb16126b41a75dd64b9f4247a/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+48    </application>
+49
+50</manifest>
